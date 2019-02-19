@@ -31,7 +31,7 @@
       Latihan2.py (Menampilkan bilangan terbesar dari 3 bilangan)
  
  
- 
+ ![5](https://user-images.githubusercontent.com/46736003/52943139-05b3d900-339f-11e9-8c2d-b2bca7c8cf9b.png)![5](https://user-images.githubusercontent.com/46736003/52943139-05b3d900-339f-11e9-8c2d-b2bca7c8cf9b.png)
  
  
  
